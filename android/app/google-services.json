@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1035388584937",
+    "project_id": "flutter-project-e4477",
+    "storage_bucket": "flutter-project-e4477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035388584937:android:5fe9bab773214abd94c178",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035388584937-k2cg40jjh9vkcb6gr8cg0j6qiqng2155.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqzfjOFf5FwAKUpC_6lKZKQz-Fwn085eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035388584937-k2cg40jjh9vkcb6gr8cg0j6qiqng2155.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035388584937-d92mtsm8nj7t0nrlrvndj6g1m30168hg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.setup.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035388584937:android:c7a8112f8559c72494c178",
+        "android_client_info": {
+          "package_name": "com.example.setup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035388584937-k2cg40jjh9vkcb6gr8cg0j6qiqng2155.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqzfjOFf5FwAKUpC_6lKZKQz-Fwn085eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035388584937-k2cg40jjh9vkcb6gr8cg0j6qiqng2155.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035388584937-d92mtsm8nj7t0nrlrvndj6g1m30168hg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.setup.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
