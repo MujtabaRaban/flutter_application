@@ -1,4 +1,4 @@
-# flutter_application_1
+# Tournament Mobile Application
  SWE463_Group 1 - E-sport mobile application
 
  1. Create a Firebase Project
